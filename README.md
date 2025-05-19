@@ -1,6 +1,9 @@
 <div align="center">
 <h1 align="center">Hi, I am <a href="https://github.com/Milo2821">Emilio Ramos</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="29px">
 </div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3892f217-17a7-4f8e-9fad-e8a1449600f3" alt="Banner de Twitch de Solo Chatear en Púrpura Rosa Naranja estilo Píxeles de Videojuego (1)"/>
+</p>
 
 
 ## About me⬇️⬇️
