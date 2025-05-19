@@ -1,8 +1,7 @@
 <div align="center">
-<h1 align="center">Hi, I am <a href="https://github.com/Milo2821">Emilio Ramos</a> 👋</h1>
+<h1 align="center">Hi, I am <a href="https://github.com/Milo2821">Emilio Ramos</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="29px">
 </div>
-![Image](https://github.com/user-attachments/assets/00604f47-817f-4d32-ac64-7934154f00d8)
-![Banner de Twitch de Solo Chatear en Púrpura Rosa Naranja estilo Píxeles de Videojuego](https://github.com/user-attachments/assets/2dcccba3-5c1a-4edc-a276-18e52a6e861a)
+
 
 ## About me⬇️⬇️
 
@@ -20,7 +19,7 @@
 	<a href="https://www.linkedin.com/in/emilio-ramos-906b762a4"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/milo._.rgb"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
   
-## My Stack
+## My Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
 ### 👉 Currently learning
 
@@ -98,7 +97,7 @@
 
 ### ⚙️ GitHub Analytics
 
-# 📊 Stats:
+# <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Milo2821&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Milo2821&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Milo2821&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
