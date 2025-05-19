@@ -2,6 +2,7 @@
 <h1 align="center">Hi, I am <a href="https://github.com/Milo2821">Emilio Ramos</a> 👋</h1>
 </div>
 ![Image](https://github.com/user-attachments/assets/00604f47-817f-4d32-ac64-7934154f00d8)
+![Banner de Twitch de Solo Chatear en Púrpura Rosa Naranja estilo Píxeles de Videojuego](https://github.com/user-attachments/assets/2dcccba3-5c1a-4edc-a276-18e52a6e861a)
 
 ## About me⬇️⬇️
 
