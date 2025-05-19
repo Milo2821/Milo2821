@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I am <a href="https://github.com/Milo2821">Emilio Ramos</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+![Image](https://github.com/user-attachments/assets/00604f47-817f-4d32-ac64-7934154f00d8)
 
 ## About me⬇️⬇️
 
